@@ -1,6 +1,6 @@
 # Jupyter / IPython configuration
 
-This is a combo of various commands and paths and recipes for (my) reference.
+This is a combo of various commands and paths and recipes for (my) reference.  
 It is a work in progress and certainly not exhaustive.
 
 Links:
