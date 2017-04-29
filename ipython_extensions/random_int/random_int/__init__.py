@@ -14,7 +14,7 @@ class RandomInt(Magics):
 
     @line_magic
     def random_int(self, line=''):
-        """Show information about versions of modules.
+        """Test extentions
         Usage:
             %random_int [optional max - else max=100]
         """

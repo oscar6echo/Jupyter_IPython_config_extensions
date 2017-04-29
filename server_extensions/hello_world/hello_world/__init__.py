@@ -9,7 +9,7 @@ class HelloWorldHandler(IPythonHandler):
 
 def _jupyter_server_extension_paths():
     return [{
-        "module": "hello_world"
+        'module': 'hello_world'
     }]
 
 
